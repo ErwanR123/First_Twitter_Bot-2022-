@@ -29,21 +29,8 @@ How to Use:
 
 2. Configure `config.ini`:
    - Add your API keys and tokens in the `config.ini` file:
-     ```
-     [twitter]
-     api_key = YOUR_API_KEY
-     api_key_secret = YOUR_API_SECRET_KEY
-     access_token = YOUR_ACCESS_TOKEN
-     access_token_secret = YOUR_ACCESS_SECRET_TOKEN
-     ```
 
-3. Install Dependencies**:
-   - Install required Python packages:
-     ```
-     pip install tweepy pandas
-     ```
-
-4. Run the Scripts:
+3. Run the Scripts:
    - Execute `twitter_pi.py` to fetch tweets from your timeline and save them to `tweets.csv`.
    - Use `MonPremierBotTwitter.py` to test authentication and explore further bot functionalities.
 
