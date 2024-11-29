@@ -1,5 +1,3 @@
-# First_Twitter_Bot-2022-
-
 ## Twitter Bot: A Simple Python Automation Tool
 
 This project contains Python scripts for interacting with the Twitter API using the `Tweepy` library. The scripts showcase basic functionalities like fetching tweets from your timeline and connecting to the Twitter API for creating or managing a Twitter bot.
